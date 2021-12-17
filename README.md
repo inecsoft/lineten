@@ -35,8 +35,7 @@ docker-compose up -d
 ```
 aws configure
 ```
-#### Rename the terraform.tfvars.example file to terraform.tfvars and change the region
-#### to your desired region
+#### create file to terraform.tfvars and change the region to your desired region
 
 #### Initialize the terraform configuration
 ```
